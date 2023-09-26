@@ -1,22 +1,22 @@
 # TP4-SCM
 
-La idea de este repositorio es la de establcer lineamientos que se seguiran al momento de la gestion de configuracion del proyecto en el transcurso de la materia Ingenieria y Calidad de Software en la Universidad Tecnologica Nacional
+La idea de este repositorio es la de establecer lineamientos que se seguirán al momento de la gestión de configuración del proyecto en el transcurso de la materia Ingeniería y Calidad de Software en la Universidad Tecnológica Nacional
 
 ---
 
-    > ├──Teorico
-    │   ├── 01 Presentacion de clase
+    > ├──Teórico
+    │   ├── 01 Presentación de clase
     │   │   ├── 0X - Nombre
-    │   ├── 02 Resumenes
+    │   ├── 02 Resúmenes
     │   │   ├── ResumenParcialX
-    │   ├── 03 Bibliografia
+    │   ├── 03 Bibliografía
     │   │   ├── Libros
     │   ├── 04 Toma de notas
     │   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
-    > ├── Practico
-    │   ├── 05 Guias
-    │   │   ├── GuiaDeTrabajo_AAAA
-    │   ├── 06 Trabajos Practicos
+    > ├── Práctico
+    │   ├── 05 Guías
+    │   │   ├── GuíaDeTrabajo_AAAA
+    │   ├── 06 Trabajos Prácticos
     │   │   ├── TPX
     │   ├── 07 Ejercicios de clases
     │   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
@@ -44,6 +44,7 @@ La idea de este repositorio es la de establcer lineamientos que se seguiran al m
 - < extensión > : nombre de la extensión correspondiente de un archivo identificado como ítem de configuración 
 - < X > : Número cardinal que comienza en 01
 - < Clase >: Número cardinal que comienza en 01.
+- < GuíaDeTrabajo >: nombre de la guía 
 
 
 ----
