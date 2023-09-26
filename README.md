@@ -3,25 +3,26 @@
 La idea de este repositorio es la de establcer lineamientos que se seguiran al momento de la gestion de configuracion del proyecto en el transcurso de la materia Ingenieria y Calidad de Software en la Universidad Tecnologica Nacional
 
 ---
-> ├──Teorico
-│   ├── 01 Presentacion de clase
-│   │   ├── 0X - Nombre
-│   ├── 02 Resumenes
-│   │   ├── ResumenParcialX
-│   ├── 03 Bibliografia
-│   │   ├── Libros
-│   ├── 04 Toma de notas
-│   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
-> ├── Practico
-│   ├── 05 Guias
-│   │   ├── GuiaDeTrabajo_AAAA
-│   ├── 06 Trabajos Practicos
-│   │   ├── TPX
-│   ├── 07 Ejercicios de clases
-│   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
-> ├── Complementrario
-│   ├── Link-Clase
-│   ├── Programa de la materia
+
+    > ├──Teorico
+    │   ├── 01 Presentacion de clase
+    │   │   ├── 0X - Nombre
+    │   ├── 02 Resumenes
+    │   │   ├── ResumenParcialX
+    │   ├── 03 Bibliografia
+    │   │   ├── Libros
+    │   ├── 04 Toma de notas
+    │   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
+    > ├── Practico
+    │   ├── 05 Guias
+    │   │   ├── GuiaDeTrabajo_AAAA
+    │   ├── 06 Trabajos Practicos
+    │   │   ├── TPX
+    │   ├── 07 Ejercicios de clases
+    │   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
+    > ├── Complementrario
+    │   ├── Link-Clase
+    │   ├── Programa de la materia
 
 ----
 ### Listado de items de configuracion
