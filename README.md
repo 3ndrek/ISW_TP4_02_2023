@@ -43,6 +43,7 @@ La idea de este repositorio es la de establcer lineamientos que se seguiran al m
 - < DD/MM/AAAA > : Fecha en formato numérico (día, mes, año )
 - < extensión > : nombre de la extensión correspondiente de un archivo identificado como ítem de configuración 
 - < X > : Número cardinal que comienza en 01
+- <Clase>: Número cardinal que comienza en 01.
 
 
 ----
