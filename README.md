@@ -3,25 +3,26 @@
 La idea de este repositorio es la de establcer lineamientos que se seguiran al momento de la gestion de configuracion del proyecto en el transcurso de la materia Ingenieria y Calidad de Software en la Universidad Tecnologica Nacional
 
 ---
-> ├──Teorico
-│   ├── 01 Presentacion de clase
-│   │   ├── 0X - Nombre
-│   ├── 02 Resumenes
-│   │   ├── ResumenParcialX
-│   ├── 03 Bibliografia
-│   │   ├── Libros
-│   ├── 04 Toma de notas
-│   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
-> ├── Practico
-│   ├── 05 Guias
-│   │   ├── GuiaDeTrabajo_AAAA
-│   ├── 06 Trabajos Practicos
-│   │   ├── TPX
-│   ├── 07 Ejercicios de clases
-│   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
-> ├── Complementrario
-│   ├── Link-Clase
-│   ├── Programa de la materia
+
+    > ├──Teorico
+    │   ├── 01 Presentacion de clase
+    │   │   ├── 0X - Nombre
+    │   ├── 02 Resumenes
+    │   │   ├── ResumenParcialX
+    │   ├── 03 Bibliografia
+    │   │   ├── Libros
+    │   ├── 04 Toma de notas
+    │   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
+    > ├── Practico
+    │   ├── 05 Guias
+    │   │   ├── GuiaDeTrabajo_AAAA
+    │   ├── 06 Trabajos Practicos
+    │   │   ├── TPX
+    │   ├── 07 Ejercicios de clases
+    │   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
+    > ├── Complementrario
+    │   ├── Link-Clase
+    │   ├── Programa de la materia
 
 ----
 ### Listado de items de configuracion
@@ -42,6 +43,7 @@ La idea de este repositorio es la de establcer lineamientos que se seguiran al m
 - < DD/MM/AAAA > : Fecha en formato numérico (día, mes, año )
 - < extensión > : nombre de la extensión correspondiente de un archivo identificado como ítem de configuración 
 - < X > : Número cardinal que comienza en 01
+- < Clase >: Número cardinal que comienza en 01.
 
 
 ----
