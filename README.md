@@ -1,4 +1,4 @@
-##TP4 - SCM
+# TP4-SCM
 
 La idea de este repositorio es la de establcer lineamientos que se seguiran al momento de la gestion de configuracion del proyecto en el transcurso de la materia Ingenieria y Calidad de Software en la Universidad Tecnologica Nacional
 
@@ -24,7 +24,7 @@ La idea de este repositorio es la de establcer lineamientos que se seguiran al m
 │   ├── Programa de la materia
 
 ----
-####Listado de items de configuracion
+### Listado de items de configuracion
 | Tipo             | Formato          | Regla Nombrado                   | Abreviatura | Ubicación Física          |
 |------------------|------------------|----------------------------------|-------------|---------------------------|
 | Presentación de clase | PDF          | `<0X><Nombre de la presentación>.pdf` | PRES        | Teórico/Presentación      |
@@ -37,7 +37,7 @@ La idea de este repositorio es la de establcer lineamientos que se seguiran al m
 | Complementario   | PDF, DOCX, XLSX  | `<Nombre>.<extensión>`           | COMP        | Complementario/           |
 
 ---
-####Glosario
+### Glosario
 - TP : trabajo práctico
 - < DD/MM/AAAA > : Fecha en formato numérico (día, mes, año )
 - < extensión > : nombre de la extensión correspondiente de un archivo identificado como ítem de configuración 
@@ -45,7 +45,7 @@ La idea de este repositorio es la de establcer lineamientos que se seguiran al m
 
 
 ----
-####Criterio Linea Base
+### Criterio linea base
 Teniendo en cuenta que un punto de referencia que utilizamos para medir el progreso en la materia son los resultados de los parciales y el contenido que abarcan los mismos, utilizamos este criterio y definimos la línea base para cada parcial rendido aprobado teniendo de punto de partida la estructura básica del repositorio. 
 
 
