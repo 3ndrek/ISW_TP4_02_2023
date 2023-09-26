@@ -31,7 +31,7 @@ La idea de este repositorio es la de establecer lineamientos que se seguirán al
 | Presentación de clase | PDF          | `<0X><Nombre de la presentación>.pdf` | PRES        | Teórico/Presentación      |
 | Resúmenes        | PDF              | `<Resumen><Parcial><X>.<Extensión>`  | RESUM       | Teórico/Resúmenes         |
 | Bibliografía     | PDF              | `<Nombre>.pdf`                   | BIBLIO      | Teórico/Bibliografía      |
-| Toma de notas    | PDF              | `<Clase><DD/MM/AAAA><Nombre><Legajo>.pdf` | NOTATEO | Teórico/Toma_de_notas    |
+| Toma de notas    | PDF              | `<Clase><DD/MM/AAAA><Nombre><Legajo>.pdf` | NOTATEO | Teórico/Toma de notas    |
 | Guías            | PDF              | `<Guía><Nombre>.pdf`             | GUIA        | Práctico/Guías            |
 | TPS              | PDF, DOCX        | `<TP><X>.pdf`                    | TPS         | Práctico/TPS              |
 | Ejercicios de clases   | PDF              | `<Clase><DD/MM/AAAA><Nombre><Legajo>.pdf` | NOTAPRA | Práctico/Ejercicios de clase    |
