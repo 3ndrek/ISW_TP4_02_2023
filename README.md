@@ -5,14 +5,16 @@ La idea de este repositorio es la de establecer lineamientos que se seguirán al
 ---
 
     > ├──Teórico
-    │   ├── 01 Presentación de clase
-    │   ├── 02 Resúmenes
-    │   ├── 03 Bibliografía
-    │   ├── 04 Toma de notas
+    │   ├──  Presentación de clase
+    │   ├──  Resúmenes
+    │   ├──  Bibliografía
+    │   ├──  Toma de notas
     > ├── Práctico
-    │   ├── 05 Guías
-    │   ├── 06 Trabajos Prácticos
-    │   ├── 07 Ejercicios de clases
+    │   ├──  Guías
+    │   ├──  Trabajos Prácticos
+    │   ├──  Ejercicios de clases
+    |   ├──  Poster Cientifico 
+    |   ├──  Charla Ted
     > ├── Link-Clase
     > ├── Programa de la materia
 
@@ -32,7 +34,7 @@ La idea de este repositorio es la de establecer lineamientos que se seguirán al
 |Cronograma |  XLSX  | `Cronograma propuesto de clases<AAAA>.xlsx`           | COMP        | Complementario/           |
 |Programa de Ingeniería y Calidad de Software|  PDF  | `Programa de Ingeniería y Calidad de Software<AAAA>.pdf`           | PROGRAMA      | Programa/           |
 |Poster Científico |  PDF  | `Poster Científico <tema>.pdf `           |    POSTER  |Práctico/PosterCientifico         |
-
+|Charla TED |  PDF  | `Charla Ted <tema>.pdf `           |    POSTER  |Práctico/Charla Ted         |
 
 
 
@@ -49,7 +51,7 @@ La idea de este repositorio es la de establecer lineamientos que se seguirán al
 - < Clase >: Número cardinal que comienza en 01.
 - < GuíaDeTrabajo >: nombre de la guía
 - < Tema >: nombre del tema del cual se expuso el poster
-
+- < Tema >: nombre del tema del cual se expuso en la charla
 
 ----
 ### Criterio linea base
