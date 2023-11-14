@@ -1,4 +1,4 @@
-# TP4-SCM
+f# TP4-SCM
 
 La idea de este repositorio es la de establecer lineamientos que se seguirán al momento de la gestión de configuración del proyecto en el transcurso de la materia Ingeniería y Calidad de Software en la Universidad Tecnológica Nacional
 
@@ -6,23 +6,15 @@ La idea de este repositorio es la de establecer lineamientos que se seguirán al
 
     > ├──Teórico
     │   ├── 01 Presentación de clase
-    │   │   ├── 0X - Nombre
     │   ├── 02 Resúmenes
-    │   │   ├── ResumenParcialX
     │   ├── 03 Bibliografía
-    │   │   ├── Libros
     │   ├── 04 Toma de notas
-    │   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
     > ├── Práctico
     │   ├── 05 Guías
-    │   │   ├── GuíaDeTrabajo_AAAA
     │   ├── 06 Trabajos Prácticos
-    │   │   ├── TPX
     │   ├── 07 Ejercicios de clases
-    │   │   ├── Clase-FechaDD/MM/AAAA-Nombre-Legajo
-    > ├── Complementrario
-    │   ├── Link-Clase
-    │   ├── Programa de la materia
+    > ├── Link-Clase
+    > ├── Programa de la materia
 
 ----
 ### Listado de items de configuracion
@@ -33,9 +25,20 @@ La idea de este repositorio es la de establecer lineamientos que se seguirán al
 | Bibliografía     | PDF              | `<Nombre>.pdf`                   | BIBLIO      | Teórico/Bibliografía      |
 | Toma de notas    | PDF              | `<Clase><DD/MM/AAAA><Nombre><Legajo>.pdf` | NOTATEO | Teórico/Toma de notas    |
 | Guías            | PDF              | `<Guía><Nombre>.pdf`             | GUIA        | Práctico/Guías            |
-| TPS              | PDF, DOCX        | `<TP><X>.pdf`                    | TPS         | Práctico/TPS              |
+| TPS              | PDF    | `<TP><X>.pdf`                    | TPS         | Práctico/TPS              |
+| TPS              | PDF    | `<TP><X><Corregido>.pdf`                    | TPS         | Práctico/TPS              |
 | Ejercicios de clases   | PDF              | `<Clase><DD/MM/AAAA><Nombre><Legajo>.pdf` | NOTAPRA | Práctico/Ejercicios de clase    |
-| Complementario   | PDF, DOCX, XLSX  | `<Nombre>.<extensión>`           | COMP        | Complementario/           |
+| Link de Clases  |  XLSX  | `Link clases<AAAA>.xlsx`           | link | LinkClases/           |
+|Cronograma |  XLSX  | `Cronograma propuesto de clases<AAAA>.xlsx`           | COMP        | Complementario/           |
+|Programa de Ingeniería y Calidad de Software|  PDF  | `Programa de Ingeniería y Calidad de Software<AAAA>.pdf`           | PROGRAMA      | Programa/           |
+|Poster Científico |  PDF  | `Poster Científico <tema>.pdf `           |    POSTER  |Práctico/PosterCientifico         |
+
+
+
+
+
+
+
 
 ---
 ### Glosario
@@ -44,7 +47,8 @@ La idea de este repositorio es la de establecer lineamientos que se seguirán al
 - < extensión > : nombre de la extensión correspondiente de un archivo identificado como ítem de configuración 
 - < X > : Número cardinal que comienza en 01
 - < Clase >: Número cardinal que comienza en 01.
-- < GuíaDeTrabajo >: nombre de la guía 
+- < GuíaDeTrabajo >: nombre de la guía
+- <Tema>: nombre del tema del cual se expuso el poster
 
 
 ----
