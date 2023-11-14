@@ -48,7 +48,7 @@ La idea de este repositorio es la de establecer lineamientos que se seguirán al
 - < X > : Número cardinal que comienza en 01
 - < Clase >: Número cardinal que comienza en 01.
 - < GuíaDeTrabajo >: nombre de la guía
-- <Tema>: nombre del tema del cual se expuso el poster
+- < Tema >: nombre del tema del cual se expuso el poster
 
 
 ----
